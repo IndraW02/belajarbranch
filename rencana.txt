@@ -2,3 +2,4 @@ menambahkan button
 menambahkan hyperlink
 menambah icon sosmed
 menambah foto profil
+menambah cv
