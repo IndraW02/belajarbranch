@@ -1,4 +1,5 @@
 menambahkan button
 menambahkan hyperlink
 menambah icon sosmed
-mencoba menggunakan framework laravel
+menambah foto profil
+menambah cv
